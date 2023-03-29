@@ -1,0 +1,11 @@
+# Screenshots
+**/*.png
+
+# Python stuff
+*.py[cod]
+**/__pycache__/
+.python-version
+
+# Scraped data
+*.txt
+*.[ct]sv
