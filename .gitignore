@@ -2,10 +2,11 @@
 **/*.png
 
 # Python stuff
+.venv/
 *.py[cod]
 **/__pycache__/
 .python-version
 
 # Scraped data
-*.txt
+urls.txt
 *.[ct]sv
